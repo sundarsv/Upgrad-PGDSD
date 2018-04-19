@@ -1,3 +1,4 @@
+/* Main class for the distance calc function */
 public class Main {
   public static void main(String[] arg) {
   //Declaring and initializing variables
